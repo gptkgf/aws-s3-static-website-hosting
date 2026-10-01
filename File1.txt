@@ -1,0 +1,5 @@
+Welcome to AWS S3.
+
+This is my first file uploaded to Amazon S3.
+S3 is a cloud storage service provided by AWS.
+This is Version 2.
